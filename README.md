@@ -6,7 +6,7 @@
   </p>
 </div>
 
-<div>
+<div align="center">
   <img src="./assets/terminal.gif" alt="Terminal Intro GIF" width="70%" />
 </div>
 
