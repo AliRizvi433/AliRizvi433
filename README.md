@@ -6,6 +6,10 @@
   </p>
 </div>
 
+<div>
+  <img src="./assets/terminal.gif" alt="Terminal Intro GIF" width="70%" />
+</div>
+
 <!-- Fancy Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
