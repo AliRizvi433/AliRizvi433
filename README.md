@@ -45,10 +45,6 @@
 
 ---
 
-<div>
-  <img src="./assets/terminal.gif" alt="Terminal Intro GIF" width="70%" />
-</div>
-
 ## 🚀 Notable Projects
 
 ### 🧠 [Maestro](https://github.com/AliRizvi433/Maestro)  
