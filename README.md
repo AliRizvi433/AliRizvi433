@@ -91,9 +91,10 @@
 
 ## 🧠 Technologies That I Know
 
+<h3 align="center">🚀 Languages & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,git,flask,html,css,mysql,pyqt,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,git,flask,html,css,mysql,pyqt,vscode&perline=8&theme=dark" />
   </a>
 </p>
 
