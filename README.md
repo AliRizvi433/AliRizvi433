@@ -94,7 +94,7 @@
 <h3 align="center">🚀 Languages & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,git,flask,html,css,mysql,pyqt,vscode&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css,sql,nodejs,flask,mongodb,git,docker,vscode,pyqt,githubactions&perline=9&theme=dark" />
   </a>
 </p>
 
