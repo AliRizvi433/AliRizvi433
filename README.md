@@ -78,59 +78,87 @@
 - 📜 *Corporate Governance & Responsibility*
 
 ---
+---
 
-## 📈 GitHub Stats
+<!-- 🐍 Snake Game Animation -->
+<div align="center">
+  <img src="https://github.com/AliRizvi433/AliRizvi433/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AliRizvi433&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+---
+
+## 💻 Tech Stack (Badges)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-purple?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Keploy](https://img.shields.io/badge/Keploy-38B2AC?style=for-the-badge)
+![PyQT](https://img.shields.io/badge/PyQT-3776AB?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliRizvi433&theme=radical&show_icons=true&count_private=true" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=AliRizvi433&theme=radical&hide_border=false" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizvi433&layout=compact&theme=radical&langs_count=8&hide_border=false" />
 </p>
 
 ---
 
-## 🧠 Technologies That I Know
+## ✍️ Dev Quote of the Day
 
-<h3 align="center">🚀 Languages & Tools</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css,sql,nodejs,flask,mongodb,git,docker,vscode,pyqt,githubactions&perline=9&theme=dark" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🔝 Top Contributed Repos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ali-r-71367a176/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=AliRizvi433&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ali-r-71367a176" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:alirizvipro@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" />
+    <img src="https://img.shields.io/badge/Gmail-alirizvipro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/schneizel__/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" />
-  </a>
-</p>
-
----
-
-## 📊 Profile Stats
-
-<p align="center">
+  &nbsp;
   <a href="https://github.com/AliRizvi433" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=AliRizvi433&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/GitHub-AliRizvi433-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AliRizvi433?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/AliRizvi433?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <br><br>
-  <img src="https://github-contributions-api.deno.dev/AliRizvi433.svg" alt="GitHub Contribution Activity" />
 </p>
+
 
 <!-- Final Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
