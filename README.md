@@ -16,12 +16,6 @@
   </a>
 </p>
 
----
-<div align="center">
-  <img src="./assets/terminal.gif" alt="Terminal Intro GIF" width="70%" />
-</div>
----
-
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science @ **KIIT University** (2022–2026)
@@ -46,6 +40,10 @@
 `Data Structures & Algorithms` `PyQT` `Socket Programming` `SEO`
 
 ---
+
+<div>
+  <img src="./assets/terminal.gif" alt="Terminal Intro GIF" width="70%" />
+</div>
 
 ## 🚀 Notable Projects
 
