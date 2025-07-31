@@ -84,7 +84,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliRizvi433&theme=radical&show_icons=true&count_private=true" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AliRizvi433&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats-new-alpha.vercel.app?user=AliRizvi433&theme=radical&hide_border=false" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizvi433&layout=compact&theme=radical&langs_count=8&hide_border=false" />
 </p>
