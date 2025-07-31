@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Python` `C++` `Java` `JavaScript` `SQL`
+`Java` `Python` `JavaScript` `SQL` `C`
 
 **AI/ML & NLP:**  
 `Large Language Models (LLMs)` `LangChain` `Prompt Engineering` `Fine-Tuning` `OpenAI`
@@ -45,19 +45,25 @@
 
 ## 🚀 Notable Projects
 
-### 🧠 [Maestro](#)  
+### 🧠 [Maestro](https://github.com/AliRizvi433/Maestro)  
 *AI-powered Exam Prep Assistant*  
 - Built with **LangChain + LLaMA 3** for KIIT semester Q&A  
 - Designed a **RAG pipeline** with metadata-rich ingestion  
 - Achieved **90%+ accuracy** in question retrieval
 
-### ⚖️ [LawLiet](#)  
+### ⚖️ [LawLiet](https://github.com/AliRizvi433/LawLiet)  
 *Legal Document AI Bot*  
 - Fine-tuned OpenAI model on Indian legal docs  
 - Built using **Flask + HTML/CSS + JS**  
 - Delivered **93%+ semantic accuracy** on unseen legal queries
 
-### 🎯 Trajectory Visualizer for DRDO  
+### 📚 [StudySync API](https://github.com/AliRizvi433/studysync-api)  
+*RESTful API backend for student notes & QBank app*  
+- Built with **FastAPI + PostgreSQL + SQLAlchemy**  
+- Features secure auth, note versioning, and role-based access  
+- Designed for scalability and easy frontend integration
+
+### 🎯 Trajectory Visualizer for DRDO *(private)*  
 *Real-time object tracking system*  
 - Implemented dynamic 2D rendering via **PyQT + sockets**  
 - Visualized object data for better operational insight
@@ -78,7 +84,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliRizvi433&theme=radical&show_icons=true&count_private=true" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AliRizvi433&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=AliRizvi433&theme=radical&hide_border=false" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizvi433&layout=compact&theme=radical&langs_count=8&hide_border=false" />
 </p>
@@ -89,7 +95,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,flask,html,css,mysql,pyqt,git,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,git,flask,html,css,mysql,pyqt,vscode&perline=10" />
   </a>
 </p>
 
@@ -98,11 +104,16 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ali-r-71367a176/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ali-r-71367a176/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
   </a>
-  <a href="mailto:alirizvipro@gmail.com" target="blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="mailto:alirizvipro@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/schneizel__/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" />
   </a>
 </p>
 
@@ -111,12 +122,15 @@
 ## 📊 Profile Stats
 
 <p align="center">
-	<a href="https://github.com/AliRizvi433">
-		<img src="https://komarev.com/ghpvc/?username=AliRizvi433&label=Profile%20views&color=blueviolet&style=flat" alt="AliRizvi433" />
-	</a>
-	<a href="https://github.com/AliRizvi433">
-		<img src="https://img.shields.io/github/followers/AliRizvi433?label=Followers&style=social" alt="AliRizvi433" />
-	</a>
+  <a href="https://github.com/AliRizvi433" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=AliRizvi433&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AliRizvi433?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/AliRizvi433?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <br><br>
+  <img src="https://github-contributions-api.deno.dev/AliRizvi433.svg" alt="GitHub Contribution Activity" />
 </p>
 
 <!-- Final Divider -->
